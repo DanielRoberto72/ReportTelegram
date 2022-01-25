@@ -11,6 +11,6 @@ OBS: Para integridade dos dados da empresa, user e passwords foram retirados.
 </div>
 
 # 🛠️ Funcionalidades
-<li> Permite maior agilidade nos envio do report.</li>
+<li> Permite maior agilidade nos envios do report.</li>
 <li> Integração com o telegram através de um bot criado para realizar os envios.</li>
 <li> *Adicionado if de data e hora para limitar o horário dos disparos e inserção de logs.</li>
